@@ -1,0 +1,78 @@
+.child1{
+    background-color: gray;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9efcRZFs7H1kkMKK7UFAxqtxMo_ifj8DDA&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    margin: auto;
+    display: block;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.body-top{
+    margin-top: 100px;
+}
+
+.icon
+{
+    width: 20px;
+    height: 20px;
+}
+
+.child
+{
+    position: relative;
+    left: 50px;
+}
+.child1{
+    height: 600px;
+}
+.list{
+    width: 100px;
+    position: relative;
+    left: 120px;
+    
+}
+.child2{
+    
+    justify-content: space-evenly;
+}
+.part1{
+    height: 40px;
+}
+.child3{
+    margin: auto;
+    display: block;
+}
+.sale{
+    display: inline-block;
+    width: 50px;
+    position: relative;
+    bottom:150px;
+
+}
+li{
+    margin-right: 20px;
+}
+
+.card{
+    height: 500px;
+
+}
+.cardbody{
+    padding: 20px;
+}
+.user{
+    position: relative;
+    right: 440px;
+    margin-bottom: 14px;
+
+}
+.bag
+{
+    position: relative;
+    right:230px ;
+    bottom: 9px;
+}
